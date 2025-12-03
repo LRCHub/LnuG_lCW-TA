@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "水槽の街から (I_006_lyric)",
+  "base_artist": "照井順政、みきまりあ (NOMELON NOLEMON)",
+  "createdAt": "2025-12-03T16:31:42.730565Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水槽の街から (I_006_lyric)",
+      "artist": "照井順政 & みきまりあ",
+      "has_synced": true,
+      "path": "select/01_水槽の街から_(I_006_lyric)_照井順政_&_みきまりあ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水槽の街から (I_006_lyric)",
+      "artist": "照井順政、みきまりあ (NOMELON NOLEMON)",
+      "has_synced": false,
+      "path": "select/pl_01_水槽の街から_(I_006_lyric)_照井順政、みきまりあ_(NOMELON_NOLEMON).txt"
+    }
+  ]
+}
